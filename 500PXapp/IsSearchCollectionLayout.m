@@ -68,6 +68,7 @@
             
             
             
+            
             if (section==1 ) {
             UICollectionViewLayoutAttributes *attr = [UICollectionViewLayoutAttributes layoutAttributesForCellWithIndexPath:idxPath];
             attr.frame = CGRectMake(xOffset, yOffset, 180, 100);
